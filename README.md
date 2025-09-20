@@ -2,7 +2,7 @@
 
 Quickly spot potential fevers or facial heat anomalies using **ambient-aware thermal mapping**, empowering smarter, faster wellness checks at a glance.
 
-![App Screenshot](writeup/screenshot.png) <!-- replace with actual path if you want to show a screenshot -->
+![App Screenshot](data/Facial_temperature_explorer.png) <!-- replace with actual path if you want to show a screenshot -->
 
 ---
 
